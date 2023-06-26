@@ -1,0 +1,327 @@
+.style{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:#E1E1E1;
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+}
+
+.style2{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:#E1E1E1;
+    border:none;
+    box-shadow:2px 2px 2px rgb(187, 186, 186);
+    
+}
+.style22{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:#E1E1E1;
+    border:none;
+    box-shadow:2px 2px 2px rgb(187, 186, 186);
+    
+}
+
+button.style2:focus{
+    background-color:rgb(176, 175, 175);
+}
+button.style22:hover{
+    background-color:rgb(176, 175, 175);
+}
+
+
+.style3{
+    font-size:20px;
+    color:rgb(2,2,251);
+    border-radius:6px;
+    padding:10px 20px ;
+    background-color:white;
+    box-shadow:2px 2px 2px rgb(255, 255, 255);
+    border-color:rgb(2, 2, 251);
+
+}
+
+button.style3:hover{
+    background-color:rgb(200, 230, 249);
+
+}
+
+.space{
+    display:flex;
+    gap:50px; 
+}
+
+.style4{
+    font-size:20px;
+    color:rgb(2,2,251);
+    border-radius:6px;
+    padding:10px 20px ;
+    background-color:rgb(200, 230, 249);
+    box-shadow:2px 2px 2px rgb(255, 255, 255);
+    border-color:rgb(2, 2, 251);
+
+}
+
+.style5{
+    font-size:20px;
+    color:rgb(2,2,251);
+    border-radius:6px;
+    padding:10px 20px ;
+    background-color:transparent;
+    border-color:transparent;
+    outline:none;
+}
+.style6{
+        font-size:20px;
+        color:rgb(2,2,251);
+        border-radius:6px;
+        padding:10px 20px ;
+        background-color:rgb(200, 230, 249);
+        border-color: transparent;    
+}
+
+.style7{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:blue;
+    border-color:transparent;
+    color:white;  
+}
+
+.style8{
+    
+        font-size:20px;
+        border-radius:6px;
+        padding:10px 20px ;
+        border-color: transparent;    
+
+}
+
+.style9{
+    
+    font-size:20px;
+    border-radius:6px;
+    padding:10px 20px ;
+    border-color: transparent;
+    background-color:transparent;    
+
+}
+
+.style10{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:blue;
+    border-color:transparent;
+    color:white;
+    display:inline-flex;
+    
+}
+
+.style11{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:blue;
+    border-color:transparent;
+    color:white;
+    display:inline-flex;
+}
+
+.style12{
+    font-size:20px;
+    border-radius:7px;
+    padding:6px 12px;
+    background-color:blue;
+    border-color:transparent;
+    color:white;
+    
+}
+
+.style13{
+    font-size:20px;
+    border-radius:7px;
+    padding:12px 24px ;
+    background-color:blue;
+    border-color:transparent;
+    color:white;
+    
+}
+
+.style14{
+    font-size:20px;
+    border-radius:7px;
+    padding:16px 32px ;
+    background-color:blue;
+    border-color:transparent;
+    color:white;
+    
+}
+
+.style15{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:rgb(0, 0, 255);
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+    color:white;
+}
+
+.style16{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:rgb(71, 71, 71);
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+    color:white;
+}
+.style17{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:red;
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+    color:white;
+}
+
+button.style23:hover{
+    background-color: #777777;
+}
+
+button.style15:hover{
+    background-color:rgb(0, 0, 163);
+}
+
+button.style16:hover{
+    background-color: rgb(36, 36, 36);
+}
+
+button.style17:hover{
+    background-color:rgb(149, 1, 1);
+}
+
+.style18{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:#E1E1E1;
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+}
+
+button.style18:focus{
+    background-color:#777777;
+}
+
+.style19{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:rgb(0, 0, 255);
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+    color:white;
+}
+
+button.style19:focus{
+    background-color:rgb(0, 0, 163);
+}
+
+.style20{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:rgb(71, 71, 71);
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+    color:white;
+}
+
+button.style20:focus{
+    background-color: rgb(36, 36, 36);
+}
+
+.style21{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:red;
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+    color:white;
+}
+
+button.style21:hover{
+    background-color:rgb(149, 1, 1);
+}
+
+.style23{
+    font-size:20px;
+    border-radius:5px;
+    padding:10px 20px ;
+    background-color:#E1E1E1;
+    border:none;
+    box-shadow:2px 2px 2px rgb(204, 201, 201);
+}
+
+.style24{
+    font-size:20px;
+    color:rgb(2,2,251);
+    border-radius:6px;
+    padding:10px 20px ;
+    background-color:white;
+    box-shadow:2px 2px 2px rgb(255, 255, 255);
+    border-color:rgb(2, 2, 251);
+
+}
+
+button.style24:focus{
+background-color:rgb(200, 230, 249);
+}
+
+.style25{
+    font-size:20px;
+    color:rgb(2,2,251);
+    border-radius:6px;
+    padding:10px 20px ;
+    background-color:transparent;
+    border-color:transparent;
+    outline:none;
+}
+
+.style26{
+    font-size:20px;
+    color:rgb(2,2,251);
+    border-radius:6px;
+    padding:10px 20px ;
+    background-color:transparent;
+    border-color:transparent;
+    outline:none;
+}
+
+button.style25:hover{
+    background-color:rgb(173, 220, 255);
+}
+
+button.style26:focus{
+    background-color:rgb(173, 220, 255);
+}
+
+.style27{
+    font-size:20px;
+    color:rgb(2,2,251);
+    border-radius:6px;
+    padding:10px 20px ;
+    background-color:white;
+    box-shadow:2px 2px 2px rgb(255, 255, 255);
+    border-color:rgb(2, 2, 251);
+
+}
